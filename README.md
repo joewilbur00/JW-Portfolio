@@ -4,7 +4,7 @@ A collection of projects demonstrating my skills in SQL, Python, machine learnin
 
 ## Projects
 
-1. [Baseball Savant SQL Project](./savant-sql-project)
+1. [Baseball Savant SQL Project](./savant_data)
    - Built a relational database in MySQL from Baseball Savant data
    - Designed tables, created views, and queried player performance metrics
 
